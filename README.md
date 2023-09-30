@@ -1,2 +1,2 @@
-# systemverilog-ethernet
+# SystemVerilog Ethernet
 SystemVerilog Ethernet
